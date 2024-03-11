@@ -18,7 +18,7 @@ hypertensive = False # boolean
 
 # Data Structures
 rbs = [70, 100, 112, 240] # list of integers. A list can hold any type of variables, and can hold a mix of types.
-patient1 = {'name':'Ahmed', 'age':50, 'diabetic': True, 'hypertensive': False} # Dictionary: key-value pairs
+patient1 = {'name':'Ahmed', 'age':50, 'diabetic': True, 'hypertensive': False} # Dictionary: key-value pairs. It also can hold any mix of types but the keys must be unique.
 patient2 = {'name': 'Hassan', 'age':44, 'diabetic':False}
 filter = (1, 100) # Tuples: It is a list that cannot be changed. i.e. you cannot add or remove items from it, unlike lists.
 
